@@ -108,3 +108,21 @@ body{
     width: 85%;
     background-color: white;
 }
+
+
+.web-design{
+    width: 50%;
+    background-color: white;
+}
+.graphic-design{
+    width: 30%;
+    background-color: white;
+}
+.marketing{
+    width: 70%;
+    background-color: white;
+}
+
+.icons2{
+    padding: 18px 10px;
+}
